@@ -1,3 +1,5 @@
+print('A Project made from Cooper-Source from GitHub (https://github.com/Cooper-Source)')
+
 def calculator():
     while True:
         try:
